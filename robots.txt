@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sifmoa.github.io/mPi/sitemap.mPi.gz
